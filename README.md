@@ -17,7 +17,7 @@ Este projeto é uma **landing page moderna e responsiva**, criada para treinar e
 - **HTML5** – Estrutura semântica e acessível
 - **CSS3** – Foco em animações (`@keyframes`) e transições suaves (`transition`)
 - **Google Fonts** – Tipografia personalizada
-- **Font Awesome** (opcional) – Ícones visuais
+
 
 ---
 
